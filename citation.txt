@@ -1,0 +1,9 @@
+@article{REPO-305,
+    author = "Chen, Ke and Xue, Bing and Zhang, Mengjie and Zhou, Fengyu",
+    journal = "IEEE Transactions on Evolutionary Computation",
+    number = "3",
+    pages = "446--460",
+    title = "{Evolutionary Multitasking for Feature Selection in High-Dimensional Classification via Particle Swarm Optimization}",
+    volume = "26",
+    year = "2021"
+}
