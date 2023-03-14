@@ -1,4 +1,4 @@
-@article{REPO-305,
+@article{REPO-304,
     author = "Chen, Ke and Xue, Bing and Zhang, Mengjie and Zhou, Fengyu",
     journal = "IEEE Transactions on Evolutionary Computation",
     number = "3",
